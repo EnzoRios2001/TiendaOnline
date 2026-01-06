@@ -130,38 +130,15 @@ Probar CRUD, autenticación y comunicación en tiempo real
 
 ---
 
-## 👥 Colaboración y Buenas Prácticas
+## 👥 Equipo
 
-Para que el equipo trabaje de manera coordinada y segura:
+👨‍💻 Juan Gabriel Pared 
 
-- Antes de empezar a trabajar cada día:
-```
-git pull origin main
-```
+👨‍💻 Enzo Rios 
 
-Al finalizar tu tarea diaria:
+👨‍💻 Leonel Fernandez 
 
-```
-git add .
-git commit -m "Mensaje claro: ej. Added login endpoint"
-git push origin main
-```
-
-Coordinar diariamente qué carpeta o microservicio tocará cada integrante para evitar conflictos.
-
-Cada integrante puede agregar README específicos en subcarpetas (backend-python/README.md, backend-node/README.md) si lo considera útil.
-
----
-
-## 👥 Equipo y Roles Sugeridos
-
-👨‍💻 Juan Gabriel Pared – Coordinador y backend Python / Django
-
-👨‍💻 Enzo Rios – Backend Node / Express y sockets
-
-👨‍💻 Leonel Fernandez – Base de datos (PostgreSQL y MongoDB)
-
-👨‍💻 Juan Francisco Bartlett – Microservicio IA con FastAPI y comunicación en tiempo real
+👨‍💻 Juan Francisco Bartlett 
 
 ---
 
